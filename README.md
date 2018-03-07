@@ -15,9 +15,9 @@ This application is for commuters who travel back and forth from Staten Island v
 - There will also be seperate tabs (Live Feed, Ferry Schedule, Contact)
 
 
-# // Live Feed \\
+# Live Feed
   - This tab will display a live Google Maps representation of the ferry 
-# // Ferry Schedule \\
+# Ferry Schedule
   - This tab will be a static image (or table) of the ferry departure schedule
-# // Contact \\
+# Contact 
   - This tab will be used to contact the developers (us) for any feedback regarding the application
